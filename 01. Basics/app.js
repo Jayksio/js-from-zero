@@ -44,4 +44,30 @@ let age = 30;
 // msg += ` and he's better than Anakin`;
 // console.log(msg);
 
-// VIDEO 1:48:00
+// string to number
+// parseInt() est une fonction qui permet de convertir une chaîne de caractère en un entier. Elle analyse une string et retourne un entier en extrayant la partie numérique du début de la chaîne, par ex "15 + 8" renvoie 15 et "21 ans bientôt 22" renvoie 21
+// let money = "15";
+// money = parseInt(money);
+// console.log(money);
+// console.log(typeof money);
+
+// 2 autres moyens de convertir une string en number avec x = +x OU avec Number()
+// let money = "20";
+// money = +money;
+// money = Number(money);
+// console.log(money);
+// console.log(typeof money);
+
+// number to string
+// avec toString() ou avec String(variable)
+// let money = 50;
+// money = money.toString()
+// money = String(money)
+// console.log(money);
+// console.log(typeof money);
+
+// string to decimal avec parseFloat()
+// let decimal = "20.20";
+// decimal = parseFloat(decimal);
+// console.log(decimal);
+// console.log(typeof decimal);
