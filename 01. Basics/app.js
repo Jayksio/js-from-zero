@@ -1,6 +1,6 @@
 // Méthodes
 
-let prenom = "Pierre";
+let prenom = "Sophie";
 let nom = "Leroy";
 let age = 30;
 
