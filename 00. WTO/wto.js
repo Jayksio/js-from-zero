@@ -1,4 +1,6 @@
-/* Les bases */
+/* Nombre d'exo actuel : 8 */
+
+/* Les bases : 6 exercices */
 
 /* 1 */
 // let x = 11;
@@ -39,3 +41,20 @@
 // console.log(prenom.split("-"));
 // output : ['Pierre']
 // explication : split() passe une string en array. Si on met split(""), ça renverrait ['p', 'i', 'e', 'r', 'r', 'e'], mais si on met autre chose entre ("") ça fait comme si on n'avait rien mis.
+
+/* Functions : 2 exercices */
+
+/* 1 */
+// function greet() {
+//     console.log("hello function");
+// }
+// output :
+// explication : rien n'apparait dans la console, car la function n'est pas appelée. Pour se faire, il aurait fallu ajouter greet();
+
+/* 2 */
+// sayHello("John");
+// function sayHello(nom) {
+//     console.log(`Salut ${nom}`);
+// }
+// output : Salut John
+// explication : si une fonction est déclarée, on peut y accéder avant sa déclaration, ce n'est pas le cas lorsqu'il s'agit d'une expression de function, c'est-à-dire une function stockée dans une variable
