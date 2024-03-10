@@ -58,3 +58,15 @@
 // }
 // output : Salut John
 // explication : si une fonction est déclarée, on peut y accéder avant sa déclaration, ce n'est pas le cas lorsqu'il s'agit d'une expression de function, c'est-à-dire une function stockée dans une variable
+
+/* Scope : 1 exercice */
+/* 1 */
+// let msg = "global variable"
+// console.log(msg);
+// function msgLocal() {
+//     let msg = "local variable";
+//     console.log(msg);
+// }
+// msgGlobal();
+// output : global variable local variable
+// explication : deux variables peuvent avoir le même nom, si l'une est globale et l'autre est locale, le code s'affiche donc normalement

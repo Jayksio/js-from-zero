@@ -1,0 +1,11 @@
+{
+  "name": "Pierre Leroy",
+  "age": 30,
+  "email": "pierre@gmail.com",
+  "hobbies": ["Music", "Sport", "Coding"],
+  "address": {
+    "city": "Paris",
+    "owner": false,
+    "street": "rue du Bournard"
+  }
+}
