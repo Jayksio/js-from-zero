@@ -22,18 +22,18 @@
 // console.log(double(5));
 
 
-setTimeout(() => {
-    console.log("Hello");
-    setTimeout(() => {
-        console.log("Coucou");
-        setTimeout(() => {
-            console.log("Namaste");
-            setTimeout(() => {
-                console.log("Hi");
-                setTimeout(() => {
-                    console.log("Bonjour");
-                }, 1000)
-            }, 1000);
-        }, 1000);
-    }, 1000);
-}, 1000); 
+// setTimeout(() => {
+//     console.log("Hello");
+//     setTimeout(() => {
+//         console.log("Coucou");
+//         setTimeout(() => {
+//             console.log("Namaste");
+//             setTimeout(() => {
+//                 console.log("Hi");
+//                 setTimeout(() => {
+//                     console.log("Bonjour");
+//                 }, 1000)
+//             }, 1000);
+//         }, 1000);
+//     }, 1000);
+// }, 1000); 
