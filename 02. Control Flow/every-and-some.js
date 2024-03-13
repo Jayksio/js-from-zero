@@ -29,3 +29,13 @@
 // let someProductsBooks = products.some(areProductsBooks);
 // console.log(allProductsBooks);
 // console.log(someProductsBooks);
+
+/* Exercice :
+let products = [
+     { name: "Checkers", category: "Toys" },
+     { name: "Harry Potter", category: "Books" },
+     { name: "iPhone", category: "Tech" },
+     { name: "Learn PHP", category: "Books" },
+];
+sortez tous les objets qui sont des "Books"
+*/

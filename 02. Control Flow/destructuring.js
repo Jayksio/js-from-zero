@@ -101,3 +101,11 @@
 //     user: { name, age, email, address: { city, country }, hobbies: [, hobby2] }
 // } = data;
 // console.log(hobby2);
+
+/* Exercice :
+const user = {
+    firstName: "Pierre",
+    age: 30
+};
+destructurer l'objet suivant en attribuant le firstName à une variable prenom et l'age à une variable age
+*/

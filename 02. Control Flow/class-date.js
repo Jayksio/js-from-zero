@@ -31,3 +31,5 @@
 // console.log(date.toLocaleDateString());
 // console.log(date.toLocaleTimeString());
 // console.log(date.toLocaleString());
+
+/* Exercice : afficher la date au format local */

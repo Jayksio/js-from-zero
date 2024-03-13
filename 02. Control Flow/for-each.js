@@ -11,3 +11,5 @@
 //     colors[i] = color[0].toUpperCase() + color.substring(1);
 // });
 // console.log(colors);
+
+/* Exercice : let colors = ["blue", "green", "purple", "red"]; Ressortez le tableau avec une majuscule à chaque première lettre des couleurs */

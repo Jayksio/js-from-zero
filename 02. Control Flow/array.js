@@ -60,3 +60,5 @@
 // reverse() permet d'inverser l'ordre du tableau
 // let array = [1, 2, 3];
 // console.log(array.reverse());
+
+/* Exercice :  // let array = [1, 2, 3, 4, 5]; utiliser la bonne méthode pour retirer les 2 premiers chiffres du tableau */

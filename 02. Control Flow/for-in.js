@@ -26,3 +26,10 @@
 //     console.log(i, list[i]);
 // }
 
+/* Exercice :  // let user = {
+//     firstName: "Pierre",
+//     age: 30,
+//     work: "Programmer",
+// };
+
+sortez la paire clé valeur de tous les éléments de l'objet */

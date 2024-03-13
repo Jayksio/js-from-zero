@@ -7,3 +7,5 @@
 //     }
 // }
 // countTo5();
+
+/* Exercice : créer une function addition avec deux paremètres qui ont 1 par défaut */

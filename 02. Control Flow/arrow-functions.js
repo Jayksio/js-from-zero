@@ -37,3 +37,8 @@
 //         }, 1000);
 //     }, 1000);
 // }, 1000); 
+
+/* Exercice : function greet(username) {
+    return `Hi ${username}`;
+}
+Mettre cette function sous forme de arrow function */

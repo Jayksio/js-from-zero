@@ -42,3 +42,5 @@
 
 // const result = products.filter((product) => product.category === "Books");
 // console.log(result);
+
+/* Exercice : const ages = [3, 10, 18, 20]; sortez le premier nombre supérieur à 18 */
