@@ -1,8 +1,8 @@
 // Méthodes
 
-let prenom = "Sophie";
-let nom = "Leroy";
-let age = 30;
+// let prenom = "Pierre";
+// let nom = "Leroy";
+// let age = 30;
 
 // concat (sert à concaténer deux variables, attention aux espaces)
 // let nomComplet = prenom.concat(nom);
